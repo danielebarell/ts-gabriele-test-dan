@@ -14,9 +14,15 @@ a{
 a:hover{
   text-decoration: underline;
 }
+aside{
+  color: rgba(0,0,0,.4);
+}
 footer{
   padding: 0.5em;
   background-color: gray;
   color: white;
+  display:flex;
+  justify-content: space-between;
+
 
 }
