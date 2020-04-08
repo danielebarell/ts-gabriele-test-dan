@@ -1,0 +1,22 @@
+body{
+  background-color: orange;
+  margin: 2em;
+  border: 2px dotted;
+  font-family: Lato;
+}
+h1, h2 {
+  text-align: center;
+}
+a{
+  color:white;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+footer{
+  padding: 0.5em;
+  background-color: gray;
+  color: white;
+
+}
